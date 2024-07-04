@@ -12,7 +12,3 @@ for i in range(1, 4):
         tails += 1
 
 print(f"Heads: {heads}, Tails: {tails}")
-if heads > tails:
-    print("You won!")
-else:
-    print("You lost!")
